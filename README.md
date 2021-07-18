@@ -9,6 +9,8 @@ The YouTube data was taken from the following artists :
 5) Shakira
 
  The data was pre-processed using a text classifier. Multinomial Naive Bayes classification algorithm was used in the main application along with flask framework. The framework used was flask as   it more flexible in use for small-scale applications.
+ 
+You can find a Chrome extension(https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi) that will modify CORS headers on the fly in your application. Obviously, this is Chrome only, but I like that it works with zero changes anywhere at all. You can use it for debugging your app on a local machine (if everything works in production).
 
 
 

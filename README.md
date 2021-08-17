@@ -1,5 +1,5 @@
 # YouCFile
-A Youtube Comments Filter Application for comments/recommendations which appear in between the videos. An end-to-end machine learning web app where the machine learning code is embedded in the flask application. The application can be further be applied to YouTube via the channels data API.
+A Youtube Comments Filter Application for comments/recommendations which appear in between the videos. An end-to-end machine learning web app where the machine learning code is embedded in the flask application. The application can further be applied to YouTube via the channels data API.
 
 The YouTube data was taken from the following artists :
 1) PSY
